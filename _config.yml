@@ -1,0 +1,28 @@
+title: Tianyu Liu
+description: Homepage
+author: Tianyu Liu (刘天宇)
+logo: /static/img/photo.jpg
+github: https://github.com/codeasashu
+about: CS Ph.D. @ PKU
+
+baseurl: ""
+url: ""
+
+allowsearch: false
+
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: false
+tagarray: [ahha,ajiaj]
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
