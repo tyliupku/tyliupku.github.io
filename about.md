@@ -37,4 +37,6 @@ permalink: /about/
 	- Graduate Level (for students major in Applied Linguistics)
 	- Lecturer: Prof. Zhifang Sui and Sujian Li
  
-
+### Contact
+- office: Room 1450, Science Builiding 1, Peking University, Haidian District, Beijing, China
+- e-mail: iboxty AT gmail.com
