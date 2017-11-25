@@ -16,7 +16,7 @@ permalink: /publications/
 
 3. Large-scale Simple Question Generation by Template-based Seq2seq Learning
 <br>**Tianyu Liu**, Bingzhen Wei, Baobao Chang, Zhifang Sui
-<br>*NLPCC2017 (Best Student Paper)* [[paper](/papers/nlpcc_2017.pdf)][[code](https://github.com/tyliupku/ChineseQG)][[news][http://www.sohu.com/a/203906825_498158]]
+<br>*NLPCC2017 (Best Student Paper)* [[paper](/papers/nlpcc_2017.pdf)][[code](https://github.com/tyliupku/ChineseQG)][[news](http://www.sohu.com/a/203906825_498158)]
 
 4. Affinity-Preserving Random Walk for Multi-Document Summarization
 <br>Kexiang Wang, **Tianyu Liu**, Zhifang Sui, Baobao Chang
