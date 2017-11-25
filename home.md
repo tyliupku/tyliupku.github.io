@@ -16,7 +16,7 @@ Now I am working on the knowledge representation and modeling for the structured
 + (2017-11) Two papers accepted by [*AAAI2018*](https://aaai.org/Conferences/AAAI-18/)
 + (2017-11) Attend [*NLPCC2017*](http://tcci.ccf.org.cn/conference/2017/) in Dalian, China
 + (2017-10) Attend [*EMNLP2017*](http://emnlp2017.net/) in Copenhagen, Denmark
-+ (2017-8) One paper won the Best Student Paper Award by [*NLPCC2017*](http://tcci.ccf.org.cn/conference/2017/)
++ (2017-8) One paper won the Best Student Paper Award in [*NLPCC2017*](http://tcci.ccf.org.cn/conference/2017/)
 + (2017-7) Two papers accepted by [*EMNLP2017*](http://emnlp2017.net/)
 
  
