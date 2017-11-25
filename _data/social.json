@@ -1,14 +1,14 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
+    "icon": "fa-envelope",
+    "link": "mailto:iboxty@gmail.com"
   },
   {
-    "icon": "fa-weixin",
-    "link": ""
+    "icon": "fa-github",
+    "link": "https://github.com/tyliupku"
   },
   {
-    "icon": "fa-linkedin",
+    "icon": "fa-book",
     "link": ""
   },
   {
