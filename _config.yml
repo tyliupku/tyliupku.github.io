@@ -2,7 +2,7 @@ title: Tianyu Liu
 description: Homepage
 author: Tianyu Liu (刘天宇)
 logo: /static/img/photo.jpg
-github: https://github.com/codeasashu
+github: https://github.com/tyliupku
 about: CS Ph.D. @ PKU
 
 baseurl: ""
@@ -10,7 +10,7 @@ url: ""
 
 allowsearch: false
 
-disqus_shortname: aboutashu
+disqus_shortname: Tianyu Liu
 google_analytics: UA-72862926-1
 
 share:
