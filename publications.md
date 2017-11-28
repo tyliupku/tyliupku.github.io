@@ -8,7 +8,7 @@ permalink: /publications/
 
 1. Table-to-text Generation by Structure-aware Seq2seq Learning
 <br>**Tianyu Liu**, Kexiang Wang, Lei Sha, Baobao Chang and Zhifang Sui
-<br>*AAAI2018* [[paper](/papers/aaai2018_liu.pdf)][[code](https://github.com/tyliupku/wiki2bio)]
+<br>*AAAI2018* [[paper](/papers/aaai2018_liu.pdf)][[arxiv](https://arxiv.org/abs/1711.09724)][[code](https://github.com/tyliupku/wiki2bio)]
 
 2. A Soft-label Method for Noise-tolerant Distantly Supervised Relation Extraction
 <br>**Tianyu Liu**, Kexiang Wang, Baobao Chang and Zhifang Sui
