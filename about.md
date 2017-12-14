@@ -28,6 +28,10 @@ permalink: /about/
 	- Outstanding Graduate Award (2016) *Top 5%*
 	- Outstanding Graduate Thesis Award (2016) *Top 5%*
 
+### Languages
+- Mandarin (Native Speaker)
+- English (TOEFL 93; IELTS 6.5)
+
 ### Teaching Assistant
 - Computational Linguistics  (Sept. 2017 ~ Present)
 	- Postgraduate Level
