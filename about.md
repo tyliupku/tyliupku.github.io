@@ -19,7 +19,7 @@ permalink: /about/
 - PKU (Postgraduate Stage)
 	- National Scholarship for Ph.D. Students (2017)  *Top 5%*
 	- Acadamic Excellence Award (2017) 
-- SCU (Graduate Stage)
+- SCU (Undergraduate Stage)
 	- National Scholarship for Undergraduate Students (2013) *Top 1%*
 	- [Tang Lixing Scholarship](https://baike.baidu.com/item/%E5%94%90%E7%AB%8B%E6%96%B0%E6%95%99%E8%82%B2%E5%8F%91%E5%B1%95%E5%9F%BA%E9%87%91) (2014) *Top 1%*
 	- Honorable Mention in Mathematical Contest in Modeling,MCM (2014)
