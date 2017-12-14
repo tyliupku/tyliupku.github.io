@@ -4,6 +4,11 @@ title: Publication
 permalink: /publications/
 ---
 
+### Under Review
+1. Neural Word Sense Disambiguation via Gloss-augmented Memory Network
+<br>Fuli Luo, **Tianyu Liu**, Qiaolin Xia, Baobao Chang, Zhifang Sui
+<br>*NAACL2018*
+
 ### Conference
 
 1. Table-to-text Generation by Structure-aware Seq2seq Learning
