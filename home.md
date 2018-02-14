@@ -17,7 +17,7 @@ Now I am working on the knowledge extraction as well as knowledge representation
 My publications can be found [here](/publications).
 
 ### What's new
-+ (2018-2)  Will attend [*AAAI2018*](https://aaai.org/Conferences/AAAI-18/) in New Orleans, Louisiana, USA during Feb.2 ~ Feb.7. Please feel free to contact me in the conference. 
++ (2018-2)  Attend [*AAAI2018*](https://aaai.org/Conferences/AAAI-18/) in New Orleans, Louisiana, USA. 
 + (2017-11) Two papers accepted by [*AAAI2018*](https://aaai.org/Conferences/AAAI-18/)
 + (2017-11) Attend [*NLPCC2017*](http://tcci.ccf.org.cn/conference/2017/) in Dalian, China
 + (2017-10) Attend [*EMNLP2017*](http://emnlp2017.net/) in Copenhagen, Denmark
