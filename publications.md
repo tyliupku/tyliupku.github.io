@@ -4,14 +4,12 @@ title: Publication
 permalink: /publications/
 ---
 
-### Under Review
+### Unpublished
 1. Neural Word Sense Disambiguation via Gloss-augmented Memory Network
 <br>Fuli Luo, **Tianyu Liu**, Qiaolin Xia, Baobao Chang, Zhifang Sui
-<br>*NAACL2018*
 
 2. Phrase-level Self-Attention Network for Sentence Encoding
 <br>Wei Wu, Houfeng Wang, **Tianyu Liu**, Shuming Ma
-<br>*NAACL2018*
 
 ### Conference
 
