@@ -11,6 +11,9 @@ permalink: /publications/
 2. Phrase-level Self-Attention Network for Sentence Encoding
 <br>Wei Wu, Houfeng Wang, **Tianyu Liu**, Shuming Ma
 
+3. Modeling Coverage for Table-to-text Generation
+<br>Tianyu Liu, Kexiang Wang, Wei Wu, Fuli Luo, Baobao Chang, Zhifang Sui
+
 ### Conference
 
 1. Table-to-text Generation by Structure-aware Seq2seq Learning
