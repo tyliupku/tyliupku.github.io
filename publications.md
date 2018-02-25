@@ -12,7 +12,7 @@ permalink: /publications/
 <br>Wei Wu, Houfeng Wang, **Tianyu Liu**, Shuming Ma
 
 3. Modeling Coverage for Table-to-text Generation
-<br>Tianyu Liu, Kexiang Wang, Wei Wu, Fuli Luo, Baobao Chang, Zhifang Sui
+<br>**Tianyu Liu**, Kexiang Wang, Wei Wu, Fuli Luo, Baobao Chang, Zhifang Sui
 
 ### Conference
 
