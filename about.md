@@ -33,7 +33,7 @@ permalink: /about/
 - English (TOEFL 93; IELTS 6.5)
 
 ### Teaching Assistant
-- Computational Linguistics  (Sept. 2017 ~ Present)
+- Computational Linguistics  (Sept. 2017 ~ Jan. 2018)
 	- Postgraduate Level
 	- Lecturer: Prof. Baobao Chang
 	- Class Website: [here](http://162.105.87.2/lecture/cl/) (only accessed by School Network of PKU)
