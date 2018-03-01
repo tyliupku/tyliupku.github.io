@@ -4,7 +4,7 @@ title: Publication
 permalink: /publications/
 ---
 
-### Unpublished
+### Under Review
 1. Neural Word Sense Disambiguation via Gloss-augmented Memory Network
 <br>Fuli Luo, **Tianyu Liu**, Qiaolin Xia, Baobao Chang, Zhifang Sui
 
