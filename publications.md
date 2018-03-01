@@ -14,6 +14,7 @@ permalink: /publications/
 3. Modeling Coverage for Table-to-text Generation
 <br>**Tianyu Liu**, Kexiang Wang, Wei Wu, Fuli Luo, Baobao Chang, Zhifang Sui
 
+
 ### Conference
 
 1. Table-to-text Generation by Structure-aware Seq2seq Learning
@@ -22,7 +23,7 @@ permalink: /publications/
 
 2. A Soft-label Method for Noise-tolerant Distantly Supervised Relation Extraction
 <br>**Tianyu Liu**, Kexiang Wang, Baobao Chang and Zhifang Sui
-<br>*EMNLP2017* [[paper](/papers/emnlp2017_liu.pdf)][[cite](http://dblp.org/rec/bibtex/conf/emnlp/LiuWCS17)]
+<br>*EMNLP2017* [[paper](/papers/emnlp2017_liu.pdf)][[cite](http://dblp.org/rec/bibtex/conf/emnlp/LiuWCS17)][[code](https://github.com/tyliupku/soft-label-RE)]
 
 3. Large-scale Simple Question Generation by Template-based Seq2seq Learning
 <br>**Tianyu Liu**, Bingzhen Wei, Baobao Chang, Zhifang Sui
