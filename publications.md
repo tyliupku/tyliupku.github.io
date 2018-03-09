@@ -19,15 +19,15 @@ permalink: /publications/
 
 1. Table-to-text Generation by Structure-aware Seq2seq Learning
 <br>**Tianyu Liu**, Kexiang Wang, Lei Sha, Baobao Chang and Zhifang Sui
-<br>*AAAI2018 (oral)* [[paper](/papers/aaai2018_liu.pdf)][[cite](http://dblp.org/rec/bibtex/journals/corr/abs-1711-09724)][[arxiv](https://arxiv.org/abs/1711.09724)][[code](https://github.com/tyliupku/wiki2bio)]
+<br>*AAAI2018 (oral)* [[paper](/papers/aaai2018_liu.pdf)][[cite](http://dblp.org/rec/bibtex/journals/corr/abs-1711-09724)][[arxiv](https://arxiv.org/abs/1711.09724)][[code](https://github.com/tyliupku/wiki2bio)][[slide](/papers/AAAI-18-ppt.pdf)]
 
 2. A Soft-label Method for Noise-tolerant Distantly Supervised Relation Extraction
 <br>**Tianyu Liu**, Kexiang Wang, Baobao Chang and Zhifang Sui
-<br>*EMNLP2017* [[paper](/papers/emnlp2017_liu.pdf)][[cite](http://dblp.org/rec/bibtex/conf/emnlp/LiuWCS17)][[code](https://github.com/tyliupku/soft-label-RE)]
+<br>*EMNLP2017* [[paper](/papers/emnlp2017_liu.pdf)][[cite](http://dblp.org/rec/bibtex/conf/emnlp/LiuWCS17)][[code](https://github.com/tyliupku/soft-label-RE)][[poster](/paper/EMNLP-17-poster.pdf)]
 
 3. Large-scale Simple Question Generation by Template-based Seq2seq Learning
 <br>**Tianyu Liu**, Bingzhen Wei, Baobao Chang, Zhifang Sui
-<br>*NLPCC2017 (Best Student Paper)* [[paper](/papers/nlpcc2017_liu.pdf)][[cite](http://dblp.org/rec/bibtex/conf/nlpcc/LiuWCS17)][[code](https://github.com/tyliupku/ChineseQG)][[news](http://www.sohu.com/a/203906825_498158)]
+<br>*NLPCC2017 (Best Student Paper)* [[paper](/papers/nlpcc2017_liu.pdf)][[cite](http://dblp.org/rec/bibtex/conf/nlpcc/LiuWCS17)][[code](https://github.com/tyliupku/ChineseQG)][[news](http://www.sohu.com/a/203906825_498158)][[slide](/paper/NLPCC-17-ppt.pdf)]
 
 4. Affinity-Preserving Random Walk for Multi-Document Summarization
 <br>Kexiang Wang, **Tianyu Liu**, Zhifang Sui, Baobao Chang
