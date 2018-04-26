@@ -7,7 +7,7 @@ permalink: /about/
 
 - Peking University (September 2016 ~ Present)
 	- Ph.D. in Computer Science, Expected 2021
-	- Advisor: Prof. [Zhifang Sui](http://eecs.pku.edu.cn/teaching/inservice/search/Detail/?ID=1820) and [Baobao Chang](http://eecs.pku.edu.cn/teaching/inservice/search/Detail/?ID=5465)
+	- Advisor: Prof. [Zhifang Sui](http://icl.pku.edu.cn/members/szf/szf-en.html) and [Baobao Chang](http://icl.pku.edu.cn/members/chbb/)
 
 - Sichuan University (September 2012 ~ June 2016)
 	- B.E. in Computer Science and Technology
