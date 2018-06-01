@@ -9,9 +9,6 @@ permalink: /publications/
 1. Phrase-level Self-Attention Network for Sentence Encoding
 <br>Wei Wu, Houfeng Wang, **Tianyu Liu**, Shuming Ma
 
-2. Modeling Coverage for Table-to-text Generation
-<br>**Tianyu Liu**, Kexiang Wang, Wei Wu, Fuli Luo, Baobao Chang, Zhifang Sui
-
 
 ### Conference
 1. Incorporating Glosses into Neural Word Sense Disambiguation
