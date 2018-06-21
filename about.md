@@ -17,6 +17,7 @@ permalink: /about/
 
 ### Awards
 - PKU (Postgraduate Stage)
+	- President Scholarship for Ph.D. Students (2018) 
 	- National Scholarship for Ph.D. Students (2017)  *Top 5%*
 	- Acadamic Excellence Award (2017) 
 - SCU (Undergraduate Stage)
