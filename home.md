@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 ### Short Bio 
-My name is **Tianyu Liu**. I am a 2nd-year Ph.D. student in the Institution of Computational Linguistics (ICL [website in Chinese](http://icl.pku.edu.cn/)), Peking University. My research interests are **natural language processing** (NLP) and **deep learning** (DL). 
+My name is **Tianyu Liu**. I am a 2nd-year Ph.D. student in the Text Mining and Knowledge Engineering Group (tmke [website in Chinese](http://tmke.pku.edu.cn/)) of the Institution of Computational Linguistics (ICL [website in Chinese](http://icl.pku.edu.cn/)), Peking University. My research interests are **natural language processing** (NLP) and **deep learning** (DL). 
 
 ([for more ...](/about))
 
@@ -24,6 +24,3 @@ My publications can be found [here](/publications).
 + (2017-10) Attend [*EMNLP2017*](http://emnlp2017.net/) in Copenhagen, Denmark
 + (2017-8) One paper won the Best Student Paper Award in [*NLPCC2017*](http://tcci.ccf.org.cn/conference/2017/)
 + (2017-7) Two papers accepted by [*EMNLP2017*](http://emnlp2017.net/)
-
- 
-
