@@ -4,20 +4,20 @@ title: Home
 permalink: /
 ---
 ### Short Bio 
-My name is **Tianyu Liu**. I am a 2nd-year Ph.D. student in the Text Mining and Knowledge Engineering Group (tmke [website in Chinese](http://tmke.pku.edu.cn/)) of the Institution of Computational Linguistics (ICL [website in Chinese](http://icl.pku.edu.cn/)), Peking University. My research interests are **natural language processing** (NLP) and **deep learning** (DL). 
+My name is **Tianyu Liu**. I am a 2nd-year Ph.D. student in the Text Mining and Knowledge Engineering Group (tmke [website in Chinese](http://tmke.pku.edu.cn/)) of the Institute of Computational Linguistics (ICL [website in Chinese](http://icl.pku.edu.cn/)), Peking University. My research interests are **natural language processing**, **machine learning** and **deep learning**. 
 
 ([for more ...](/about))
 
 
 ### Current Work
 Now I am working on the knowledge extraction as well as knowledge representation for the structured data, including
-+  **Data-to-text** natural laguage generation (D2TNLG)
++ **Data-to-text** natural laguage generation (D2TNLG)
 + **Information extraction** from large web text
 
 My publications can be found [here](/publications).
 
 ### What's new
-+ (2018-4)  I will attend [*ACL2018*](http://acl2018.org/) in Melbourne, Australia from July 15 to July 20. Great thanks to my advisor Prof. [Zhifang Sui](http://icl.pku.edu.cn/members/szf/szf-en.html) for the financial support!
++ (2018-7)  Attend [*ACL2018*](http://acl2018.org/) in Melbourne, Australia.
 + (2018-2)  Attend [*AAAI2018*](https://aaai.org/Conferences/AAAI-18/) in New Orleans, Louisiana, USA. 
 + (2017-11) Two papers accepted by [*AAAI2018*](https://aaai.org/Conferences/AAAI-18/)
 + (2017-11) Attend [*NLPCC2017*](http://tcci.ccf.org.cn/conference/2017/) in Dalian, China
