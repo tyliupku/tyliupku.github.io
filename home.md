@@ -18,6 +18,7 @@ My publications can be found [here](/publications).
 
 ### What's new
 + (2018-7)  Attend [*ACL2018*](http://acl2018.org/) in Melbourne, Australia.
++ (2018-5)  Start an internship in the [*KC Group, MSRA*](https://www.microsoft.com/en-us/research/group/knowledge-computing/), mentored by Dr. [Chin-yew Lin](https://www.microsoft.com/en-us/research/people/cyl/).
 + (2018-2)  Attend [*AAAI2018*](https://aaai.org/Conferences/AAAI-18/) in New Orleans, Louisiana, USA. 
 + (2017-11) Two papers accepted by [*AAAI2018*](https://aaai.org/Conferences/AAAI-18/)
 + (2017-11) Attend [*NLPCC2017*](http://tcci.ccf.org.cn/conference/2017/) in Dalian, China
