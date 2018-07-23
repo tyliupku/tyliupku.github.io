@@ -13,7 +13,7 @@ permalink: /publications/
 ### Conference
 1. Incorporating Glosses into Neural Word Sense Disambiguation
 <br>Fuli Luo, **Tianyu Liu**, Qiaolin Xia, Baobao Chang and Zhifang Sui
-<br>*ACL2018* [[arxiv](https://arxiv.org/abs/1805.08028)]
+<br>*ACL2018* [[arxiv](https://arxiv.org/abs/1805.08028)][[code]](https://github.com/jimiyulu/WSD_MemNN)
 
 2. Table-to-text Generation by Structure-aware Seq2seq Learning
 <br>**Tianyu Liu**, Kexiang Wang, Lei Sha, Baobao Chang and Zhifang Sui
