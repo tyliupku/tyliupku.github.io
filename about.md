@@ -43,5 +43,5 @@ permalink: /about/
 	- Lecturer: Prof. Zhifang Sui and Sujian Li
  
 ### Contact
-- office: Room 1450, Science Builiding 1, Peking University, Haidian District, Beijing, China
+- office: Room 1450, Science Building 1, Peking University, Haidian District, Beijing, China
 - e-mail: iboxty AT gmail.com
