@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 ### Short Bio 
-My name is **Tianyu Liu**. I am a 2nd-year Ph.D. student in the Text Mining and Knowledge Engineering Group (tmke [website in Chinese](http://tmke.pku.edu.cn/)) of the Institute of Computational Linguistics (ICL [website in Chinese](http://icl.pku.edu.cn/)), Peking University. My research interests are **natural language processing**, **machine learning** and **deep learning**. 
+My name is **Tianyu Liu**. I am a 2nd-year Ph.D. student in the Text Mining and Knowledge Engineering Group ([website in Chinese](http://tmke.pku.edu.cn/)), the Institute of Computational Linguistics (ICL, [website in Chinese](http://icl.pku.edu.cn/)), Peking University. My research interests include **natural language processing**, **machine learning** and **deep learning**. 
 
 ([for more ...](/about))
 
