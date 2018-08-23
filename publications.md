@@ -4,10 +4,6 @@ title: Publication
 permalink: /publications/
 ---
 
-### Under Review
-
-1. Phrase-level Self-Attention Network for Sentence Encoding
-<br>Wei Wu, Houfeng Wang, **Tianyu Liu**, Shuming Ma
 
 
 ### Conference
