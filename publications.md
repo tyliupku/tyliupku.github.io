@@ -16,7 +16,7 @@ permalink: /publications/
 
 3. Phrase-level Self-Attention Networks for Universal Sentence Encoding
 <br>Wei Wu, Houfeng Wang, **Tianyu Liu**, Shuming Ma
-<br>*EMNLP2018 (oral)* [[paper](http://aclweb.org/anthology/D18-1408))]
+<br>*EMNLP2018 (oral)* [[paper](http://aclweb.org/anthology/D18-1408)]
 
 4. Incorporating Glosses into Neural Word Sense Disambiguation
 <br>Fuli Luo, **Tianyu Liu**, Qiaolin Xia, Baobao Chang and Zhifang Sui
