@@ -34,12 +34,9 @@ permalink: /about/
 	- National Scholarship for Undergraduate Students (2013) 
 
 
-
-
-
-### Languages
-- Mandarin (Native Speaker)
-- English (TOEFL 93; IELTS 6.5)
+### Academic Services
+- Program Committee Member: NAACL2019, ACL2019
+- Secondary Reviewer: AAAI2019
 
 ### Teaching Assistant
 - Computational Linguistics  (Sept. 2017 ~ Jan. 2018)
