@@ -8,7 +8,7 @@ permalink: /publications/
 ### Conference
 1. Hierarchical Encoder with Auxiliary Supervision for Neural Table-to-text Generation: Learning Better Representation for Tables
 <br>**Tianyu Liu**, Fuli Luo, Qiaolin Xia, Shuming Ma, Baobao Chang and Zhifang Sui
-<br>*AAAI2019 (poster)* 
+<br>*AAAI2019 (poster)* [[paper](https://www.aaai.org/Papers/AAAI/2019/AAAI-LiuT.3205.pdf)]
 
 2. Leveraging Gloss Knowledge in Neural Word Sense Disambiguation by Hierarchical Co-Attention
 <br>Fuli Luo, **Tianyu Liu**, Zexue He, Qiaolin Xia, Baobao Chang and Zhifang Sui
