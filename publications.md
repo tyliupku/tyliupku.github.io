@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 
-### Conference
+### Selected Publications
 1. Towards Comprehensive Description Generation from Factual Attribute-Value Tables
 <br>**Tianyu Liu**, Fuli Luo, Pengcheng Yang, Wei Wu, Baobao Chang and Zhifang Sui
 <br>*ACL2019*
