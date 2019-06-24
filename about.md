@@ -21,7 +21,7 @@ permalink: /about/
 ### Awards
 - PKU (Postgraduate Stage)
 	- Leo KoGuan Scholarship (2018)
-	- President Scholarship for Ph.D. Students (2018) 
+	- President Scholarship for Ph.D. Students (2018,2019) 
 	- National Scholarship for Ph.D. Students (2017)  
 	- Acadamic Excellence Award (2017,2018) 
 - SCU (Undergraduate Stage)
@@ -35,7 +35,7 @@ permalink: /about/
 
 
 ### Academic Services
-- Program Committee Member: NAACL2019, ACL2019, EMNLP2019
+- Program Committee Member: NAACL2019, ACL2019, EMNLP2019, INLG2019
 - Secondary Reviewer: AAAI2019
 
 ### Teaching Assistant
