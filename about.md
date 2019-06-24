@@ -23,7 +23,7 @@ permalink: /about/
 	- Leo KoGuan Scholarship (2018)
 	- President Scholarship for Ph.D. Students (2018,2019) 
 	- National Scholarship for Ph.D. Students (2017)  
-	- Acadamic Excellence Award (2017,2018) 
+	- Acadamic Excellence Award (2017,2018,2019) 
 - SCU (Undergraduate Stage)
 	- Outstanding Graduate Award (2016) 
 	- Outstanding Graduate Thesis Award (2016) 
