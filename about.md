@@ -35,8 +35,8 @@ permalink: /about/
 
 
 ### Academic Services
-- Program Committee Member: NAACL2019, ACL2019, EMNLP2019, INLG2019
-- Secondary Reviewer: AAAI2019
+- Program Committee Member: NAACL'19, ACL'19, EMNLP'19, INLG'19, AAAI'20
+- Secondary Reviewer: AAAI'19
 
 ### Teaching Assistant
 - Computational Linguistics  (Sept. 2017 ~ Jan. 2018)
