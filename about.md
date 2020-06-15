@@ -23,7 +23,7 @@ permalink: /about/
 - Research Intern, Microsoft Research Asia (Beijing), Knowledge Computing Group (May 2018 ~ October 2018)
 	- Mentored by Dr. [Chin-yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) and Dr. Jin-Ge Yao
 	- Working on Data-to-text Generation and Natural Language Inference
-- Research Assistant, Institute of Computational Linguistics, Peking University
+- Research Assistant, Institute of Computational Linguistics, Peking University (March 2016 ~ Present)
 	- Mentored by Prof. [Zhifang Sui](http://icl.pku.edu.cn/members/szf/szf-en.html) and [Baobao Chang](http://icl.pku.edu.cn/members/chbb/)
 ### Awards
 - PKU (Postgraduate Stage)
