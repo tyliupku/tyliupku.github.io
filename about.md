@@ -13,13 +13,21 @@ permalink: /about/
 	- B.E. in Computer Science and Technology
 	- Advisor: Prof. [Jiancheng Lv](http://cs.scu.edu.cn/cs/jsxx/webinfo/2011/12/1324865057022317.htm)
 	- GPA Ranking: 1/300+
-	- Graduate from [Yuzhang Honors College](https://en.wikipedia.org/wiki/Wu_Yuzhang_Honors_College) 
-### Internship
-- Microsoft Research Asia, Knowledge Computing Group (May 2018 ~ October 2018)
+	- Graduate from [Wu Yuzhang Honors College](https://en.wikipedia.org/wiki/Wu_Yuzhang_Honors_College) 
+### Professional Experiences
+- Research Intern, Remote Work due to COVID-19, Microsoft Research (Jun 2020 ~ Present)
+	- Mentored by Dr. [Yizhe Zhang](https://dreasysnail.github.io/) (Microsoft Research) and Dr. [Yi Mao](https://www.microsoft.com/en-us/research/people/maoyi/) (Microsoft Business AI)
+- Visiting Ph.d. Student, [TTIC](https://www.ttic.edu/) (Chicago) (July 2019 ~ Jan 2020)
+	- Mentored by Prof. [Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel/) and Dr. [Sam Wiseman](https://swiseman.github.io/)
+	- Working on generative models and energy based models
+- Research Intern, Microsoft Research Asia (Beijing), Knowledge Computing Group (May 2018 ~ October 2018)
 	- Mentored by Dr. [Chin-yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) and Dr. Jin-Ge Yao
-	- Researches on Data-to-text Generation and Natural Language Inference
+	- Working on Data-to-text Generation and Natural Language Inference
+- Research Assistant, Institute of Computational Linguistics, Peking University
+	- Mentored by Prof. [Zhifang Sui](http://icl.pku.edu.cn/members/szf/szf-en.html) and [Baobao Chang](http://icl.pku.edu.cn/members/chbb/)
 ### Awards
 - PKU (Postgraduate Stage)
+	- Specialized Scholarship for Ph.D. Students (2019)
 	- Leo KoGuan Scholarship (2018)
 	- President Scholarship for Ph.D. Students (2018,2019) 
 	- National Scholarship for Ph.D. Students (2017)  
@@ -35,7 +43,7 @@ permalink: /about/
 
 
 ### Academic Services
-- Program Committee Member: NAACL'19, ACL'19, EMNLP'19, INLG'19, AAAI'20
+- Program Committee Member: NAACL'19, ACL'19'20, EMNLP'19'20, INLG'19, AAAI'20, COLING'20, AACL-IJCNLP'20
 - Secondary Reviewer: AAAI'19
 
 ### Teaching Assistant
@@ -48,5 +56,4 @@ permalink: /about/
 	- Lecturer: Prof. Zhifang Sui and Sujian Li
  
 ### Contact
-- office: Room 1450, Science Building 1, Peking University, Haidian District, Beijing, China
 - e-mail: iboxty AT gmail.com
