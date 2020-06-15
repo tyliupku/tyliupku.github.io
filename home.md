@@ -4,25 +4,10 @@ title: Home
 permalink: /
 ---
 ### Short Bio 
-My name is **Tianyu Liu**. I am a 3rd-year Ph.D. student in the Institute of Computational Linguistics (ICL, [website in Chinese](http://icl.pku.edu.cn/)), Peking University, advised by Prof. Zhifang Sui and Prof. Baobao Chang.
-My research interests include **natural language processing**, **machine learning** and **deep learning**. 
+My name is **Tianyu Liu**. I am now a 4th-year Ph.D. student (expect to graduate in Jun 2021) in the Institute of Computational Linguistics (ICL, [website in Chinese](http://icl.pku.edu.cn/)), Peking University. During my Ph.d. journey so far, I am very fortunate to work with Prof. [Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm) and Prof. [Baobao Chang](https://eecs.pku.edu.cn/info/1501/6756.htm) in Peking University, Dr. [Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) and Dr. [Jin-Ge Yao](https://www.semanticscholar.org/author/Jin-Ge-Yao/145949061) in Microsft Research Asia, Prof. [Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel/) and Dr. [Sam Wiseman](https://swiseman.github.io/) in [TTIC](https://www.ttic.edu/), Dr. [Yizhe Zhang](https://dreasysnail.github.io/) (Microsoft Research) and Dr. [Yi Mao](https://www.microsoft.com/en-us/research/people/maoyi/) (Microsoft Business AI). My background and professional experiences can be found [here](/about).
 
-([for more ...](/about))
+My research interests include **natural language processing** and **deep learning**. Specifically I focus on faithful and controllable neural data-to-text generation, and robustness and interpretability in natural language understanding. 
+My publication can be found [here](/publications) or on my [google scholar](https://scholar.google.com/citations?user=6hHbBwwAAAAJ) page.
 
+**I am now on the industry job market, actively seeking for a NLP researcher or engineer position. Please drop my an email (A@B,A=tianyu0421,B=pku.edu.cn) or contact me on [LinkedIn](https://www.linkedin.com/in/tianyu-liu-28013a142/) if you want to chat.**
 
-### Current Work
-So far I am working on the knowledge extraction as well as knowledge representation for the structured data, including
-+ **Data-to-text** natural laguage generation (D2TNLG)
-+ **Information extraction** from large web text
-
-My publications can be found [here](/publications).
-
-### What's new
-+ (2018-7)  Attend [*ACL2018*](http://acl2018.org/) in Melbourne, Australia.
-+ (2018-5)  Start an internship in the [*KC Group, MSRA*](https://www.microsoft.com/en-us/research/group/knowledge-computing/)
-+ (2018-2)  Attend [*AAAI2018*](https://aaai.org/Conferences/AAAI-18/) in New Orleans, Louisiana, USA. 
-+ (2017-11) Two papers accepted by [*AAAI2018*](https://aaai.org/Conferences/AAAI-18/)
-+ (2017-11) Attend [*NLPCC2017*](http://tcci.ccf.org.cn/conference/2017/) in Dalian, China
-+ (2017-10) Attend [*EMNLP2017*](http://emnlp2017.net/) in Copenhagen, Denmark
-+ (2017-8) One paper won the Best Student Paper Award in [*NLPCC2017*](http://tcci.ccf.org.cn/conference/2017/)
-+ (2017-7) Two papers accepted by [*EMNLP2017*](http://emnlp2017.net/)
