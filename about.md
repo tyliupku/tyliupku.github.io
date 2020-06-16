@@ -14,6 +14,7 @@ permalink: /about/
 	- Advisor: Prof. [Jiancheng Lv](http://cs.scu.edu.cn/cs/jsxx/webinfo/2011/12/1324865057022317.htm)
 	- GPA Ranking: 1/300+
 	- Graduate from [Wu Yuzhang Honors College](https://en.wikipedia.org/wiki/Wu_Yuzhang_Honors_College) 
+	
 ### Professional Experiences
 - Research Intern, Remote Work due to COVID-19, Microsoft Research (Jun 2020 ~ Present)
 	- Mentored by Dr. [Yizhe Zhang](https://dreasysnail.github.io/) (Microsoft Research) and Dr. [Yi Mao](https://www.microsoft.com/en-us/research/people/maoyi/) (Microsoft Business AI)
@@ -25,6 +26,7 @@ permalink: /about/
 	- Working on Data-to-text Generation and Natural Language Inference
 - Research Assistant, Institute of Computational Linguistics, Peking University (March 2016 ~ Present)
 	- Mentored by Prof. [Zhifang Sui](http://icl.pku.edu.cn/members/szf/szf-en.html) and [Baobao Chang](http://icl.pku.edu.cn/members/chbb/)
+	
 ### Awards
 - PKU (Postgraduate Stage)
 	- Specialized Scholarship for Ph.D. Students (2019)
@@ -56,4 +58,4 @@ permalink: /about/
 	- Lecturer: Prof. Zhifang Sui and Sujian Li
  
 ### Contact
-- e-mail: iboxty AT gmail.com
+- e-mail: tianyu0421 AT pku.edu.cn
