@@ -20,9 +20,9 @@ permalink: /about/
 	- Mentored by Dr. [Yizhe Zhang](https://dreasysnail.github.io/) (Microsoft Research) and Dr. [Yi Mao](https://www.microsoft.com/en-us/research/people/maoyi/) (Microsoft Business AI)
 - Visiting Ph.d. Student, [TTIC](https://www.ttic.edu/) (Chicago) (July 2019 ~ Jan 2020)
 	- Mentored by Prof. [Kevin Gimpel](https://ttic.uchicago.edu/~kgimpel/) and Dr. [Sam Wiseman](https://swiseman.github.io/)
-	- Working on generative models and energy based models
+	- Working on higher order HMM, generative models and energy based models
 - Research Intern, Microsoft Research Asia (Beijing), Knowledge Computing Group (May 2018 ~ October 2018)
-	- Mentored by Dr. [Chin-yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) and Dr. Jin-Ge Yao
+	- Mentored by Dr. [Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/) and Dr. Jin-Ge Yao
 	- Working on Data-to-text Generation and Natural Language Inference
 - Research Assistant, Institute of Computational Linguistics, Peking University (March 2016 ~ Present)
 	- Mentored by Prof. [Zhifang Sui](http://icl.pku.edu.cn/members/szf/szf-en.html) and [Baobao Chang](http://icl.pku.edu.cn/members/chbb/)
@@ -45,7 +45,7 @@ permalink: /about/
 
 
 ### Academic Services
-- Program Committee Member: NAACL'19, ACL'19'20, EMNLP'19'20, INLG'19, AAAI'20, COLING'20, AACL-IJCNLP'20
+- Program Committee Member: NAACL'19, ACL'19'20, EMNLP'19'20, INLG'19, AAAI'20, COLING'20, AACL-IJCNLP'20, CCL'20
 - Secondary Reviewer: AAAI'19
 
 ### Teaching Assistant
