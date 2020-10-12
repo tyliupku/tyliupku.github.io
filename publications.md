@@ -10,25 +10,25 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 <br>\* denotes Equal Contribution
 #### 2020
 An Anchor-Based Automatic Evaluation Metric for Document Summarization
-<br>Kexiang Wang *, **Tianyu Liu** *, Baobao Chang and Zhifang Sui
+<br>Kexiang Wang\*, **Tianyu Liu**\*, Baobao Chang and Zhifang Sui
 <br>*COLING 2020*
 
 An Empirical Study on Model-agnostic Debiasing Strategies for Robust Natural Language
 Inference
-<br>**Tianyu Liu** *, Xin Zheng *, Xiaoan Ding, Baobao Chang and Zhifang Sui
+<br>**Tianyu Liu**\*, Xin Zheng\*, Xiaoan Ding, Baobao Chang and Zhifang Sui
 <br>*CoNLL 2020* [[arxiv](https://arxiv.org/abs/2010.03777)][[Adversarial Datasets](https://github.com/tyliupku/nli-debiasing-datasets)]
 
 Discrimatively-Tuned Generative Classifier for Robust Natural Language Inference
-<br>Xiaoan Ding *, **Tianyu Liu** *, Baobao Chang, Zhifang Sui and Kevin Gimpel
+<br>Xiaoan Ding\*, **Tianyu Liu**\*, Baobao Chang, Zhifang Sui and Kevin Gimpel
 <br>*EMNLP 2020* [[arxiv](https://arxiv.org/abs/2010.03760)]
 
 An Exploration of Arbitrary-Order Sequence Labeling via Energy-Based Inference Networks
-<br>Lifu Tu *, **Tianyu Liu** * and Kevin Gimpel
+<br>Lifu Tu\*, **Tianyu Liu**\* and Kevin Gimpel
 <br>*EMNLP 2020* [[arxiv](https://arxiv.org/abs/2010.02789)][[code](https://github.com/tyliupku/Arbitrary-Order-Infnet)]
 
 HypoNLI: Exploring the Artificial Patterns of Hypothesis-only Bias in Natural Language Inference
 <br>**Tianyu Liu**, Xin Zheng, Baobao Chang and Zhifang Sui
-<br>*LREC2020*[[paper](https://arxiv.org/pdf/2003.02756.pdf)][[hard and easy instances](https://github.com/tyliupku/tyliupku.github.io/blob/master/paper/LREC20_hypoNLI.zip)]
+<br>*LREC2020* [[paper](https://arxiv.org/pdf/2003.02756.pdf)][[hard and easy instances](https://github.com/tyliupku/tyliupku.github.io/blob/master/paper/LREC20_hypoNLI.zip)]
 
 #### 2019
 Towards Comprehensive Description Generation from Factual Attribute-Value Tables
@@ -44,7 +44,7 @@ Enhancing Topic-to-Essay Generation with External Commonsense Knowledge
 <br>*ACL2019*[[paper](https://www.aclweb.org/anthology/P19-1193/)]
 
 Learning to Control the Fine-grained Sentiment for Story Ending Generation
-<br>Fuli Luo *, Damai Dai *, Pengcheng Yang, **Tianyu Liu**, Baobao Chang, Zhifang Sui, Xu Sun
+<br>Fuli Luo\*, Damai Dai\*, Pengcheng Yang, **Tianyu Liu**, Baobao Chang, Zhifang Sui, Xu Sun
 <br>*ACL2019*[[paper](https://www.aclweb.org/anthology/P19-1603/)]
 
 Hierarchical Encoder with Auxiliary Supervision for Neural Table-to-text Generation: Learning Better Representation for Tables
