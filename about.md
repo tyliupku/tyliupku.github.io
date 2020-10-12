@@ -45,14 +45,15 @@ permalink: /about/
 
 
 ### Academic Services
-- Program Committee Member: NAACL'19, ACL'19'20, EMNLP'19'20, INLG'19, AAAI'20, COLING'20, AACL-IJCNLP'20, CCL'20
+- Program Committee Member: 
+	- 2020: reviewer for ACL, EMNLP, COLING, EACL, INLG, AAAI, IJCAI, AACL-IJCNLP, CCL
+	- 2019: reviewer for ACL, EMNLP, NAACL, INLG, AAAI
 - Secondary Reviewer: AAAI'19
 
 ### Teaching Assistant
 - Computational Linguistics  (Sept. 2017 ~ Jan. 2018)
 	- Postgraduate Level
 	- Lecturer: Prof. Baobao Chang
-	- Class Website: [here](http://162.105.87.2/lecture/cl/) (only accessed by School Network of PKU)
 - Compiler Principles (Feb. 2017 ~ July. 2017) 
 	- Graduate Level (for students major in Applied Linguistics)
 	- Lecturer: Prof. Zhifang Sui and Sujian Li
