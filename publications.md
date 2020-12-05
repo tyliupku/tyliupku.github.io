@@ -7,11 +7,15 @@ permalink: /publications/
 
 ### Selected Publications 
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=6hHbBwwAAAAJ)
-<br>\* denotes Equal Contribution
+<br>\* indicates Equal Contribution
 #### 2020
+Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View
+<br>**Tianyu Liu**\*, Xin Zheng\*, Baobao Chang and Zhifang Sui
+<br>*AAAI 2021*
+
 An Anchor-Based Automatic Evaluation Metric for Document Summarization
 <br>Kexiang Wang\*, **Tianyu Liu**\*, Baobao Chang and Zhifang Sui
-<br>*COLING 2020*
+<br>*COLING 2020* [[paper](https://www.aclweb.org/anthology/2020.coling-main.500/)]
 
 An Empirical Study on Model-agnostic Debiasing Strategies for Robust Natural Language
 Inference
