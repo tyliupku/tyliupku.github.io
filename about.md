@@ -47,10 +47,10 @@ permalink: /about/
 ### Academic Services
 - Senior Program Committee Member: IJCAI 2021
 - Program Committee Member: 
-	- 2021: reviewer for ACL-IJCNLP, NAACL
+	- 2021: reviewer for ACL-IJCNLP, NAACL, AAAI
 	- 2020: reviewer for ACL, EMNLP, COLING, EACL, INLG, AAAI, IJCAI, AACL-IJCNLP, CCL
 	- 2019: reviewer for ACL, EMNLP, NAACL, INLG, AAAI
-- Secondary Reviewer: AAAI'19
+- Secondary Reviewer: AAAI 2019
 
 ### Teaching Assistant
 - Computational Linguistics  (Sept. 2017 ~ Jan. 2018)
