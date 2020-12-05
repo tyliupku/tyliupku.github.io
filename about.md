@@ -45,7 +45,9 @@ permalink: /about/
 
 
 ### Academic Services
+- Senior Program Committee Member: IJCAI 2021
 - Program Committee Member: 
+	- 2021: reviewer for ACL-IJCNLP, NAACL
 	- 2020: reviewer for ACL, EMNLP, COLING, EACL, INLG, AAAI, IJCAI, AACL-IJCNLP, CCL
 	- 2019: reviewer for ACL, EMNLP, NAACL, INLG, AAAI
 - Secondary Reviewer: AAAI'19
@@ -59,4 +61,4 @@ permalink: /about/
 	- Lecturer: Prof. Zhifang Sui and Sujian Li
  
 ### Contact
-- e-mail: tianyu0421 AT pku.edu.cn
+- e-mail: A AT B  A=tianyu0421 B=pku.edu.cn
