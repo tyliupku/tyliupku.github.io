@@ -32,7 +32,7 @@ An Exploration of Arbitrary-Order Sequence Labeling via Energy-Based Inference N
 
 HypoNLI: Exploring the Artificial Patterns of Hypothesis-only Bias in Natural Language Inference
 <br>**Tianyu Liu**, Xin Zheng, Baobao Chang and Zhifang Sui
-<br>*LREC2020* [[paper](https://arxiv.org/pdf/2003.02756.pdf)][[hard and easy instances](https://github.com/tyliupku/tyliupku.github.io/blob/master/paper/LREC20_hypoNLI.zip)]
+<br>*LREC2020* [[paper](https://arxiv.org/pdf/2003.02756.pdf)][[dataset(google drive)](https://drive.google.com/file/d/1VFF7nU7EWaK6dZfd16MCjDx3OqSfepFK/view?usp=sharing)][[dataset(tencent weiyun)](https://share.weiyun.com/HQfXhos7)]
 
 #### 2019
 Towards Comprehensive Description Generation from Factual Attribute-Value Tables
