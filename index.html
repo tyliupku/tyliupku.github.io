@@ -50,15 +50,17 @@
 
       <h2 id="about-me">About Me</h2>
 
-<p>I am a senior researcher at <a href="https://dingdang.qq.com/open#/">Tencent Cloud Xiaowei</a> (Beijing) working on Natural Language Processing.
-I earned my PhD degree at <a href="https://cs.pku.edu.cn/English/Home.htm">Peking University</a> in 2021 where I was advised by Zhifang Sui and Baobao Chang. During my PhD, I had wonderful experiences interning at or visiting Microsoft Research (Beijing and Redmond) and <a href="https://www.ttic.edu/">Toyota Technological Institute at Chicago</a> (TTIC).</p>
+<p>I am a senior researcher at Tencent Cloud AI working on Natural Language Processing. 
+I earned my PhD degree at <a href="https://cs.pku.edu.cn/English/Home.htm">Peking University</a> in 2021 where I was advised by Zhifang Sui and Baobao Chang. During my PhD, I had wonderful experiences interning at or visiting Microsoft Research (Beijing and Redmond) and <a href="https://www.ttic.edu/">Toyota Technological Institute at Chicago</a> (TTIC).
+I am based in Beijing.</p>
 
-<p>Previously my research experiences cover Natural Language Generation (e.g. data-to-text, summarization, free-form text, stories), information extraction (e.g. relation extraction, knowledge base population) and robustness of NLP models.
-Recently, my research interests switch to the pretraining and deployment of big models (e.g. dialogue, code, cross-modal, over-100-billion-parameter models, prompt-based methods) and dialogue systems (especially multi-turn with long context).</p>
+<p>Previously my research experiences cover Natural Language Generation (e.g. data-to-text, summarization, free-form text, stories), Information Extraction (e.g. relation extraction, knowledge base population) and Robustness of NLP models.
+Recently, my research interests switch to the pretraining and alignment of large language models (e.g. dialogue, code, cross-modal, mixture-of-experts models) and dialogue systems (especially multi-turn with long context).</p>
 
 <h2 id="news">News</h2>
-
 <ul>
+  <li><strong>[Jun. 2023]</strong> We have released an automatic and fairer evaluator <a href="https://github.com/i-Eval/FairEval">FairEval</a> for LLM comparisons that mitigate the systematic positional bias on the order of appearance in the context. Check out our <a href="https://arxiv.org/abs/2305.17926">paper</a> or <a href="https://mp.weixin.qq.com/s/LmtO2-YiSD2n3ccH1DJAkw">review in Chinese</a>.</li>
+  <li><strong>[May. 2023]</strong> We have 2 papers accepted by ACL 2023 and its findings.</li>
   <li><strong>[Oct. 2022]</strong> We have 4 papers accepted by EMNLP 2022 and its findings.</li>
   <li><strong>[Apr. 2022]</strong> Our paper on Robust Finetuning is accepted by IJCAI 2022.</li>
   <li><strong>[Apr. 2022]</strong> We have 3 papers accepted by NAACL 2022 and its findings.</li>
@@ -67,9 +69,46 @@ Recently, my research interests switch to the pretraining and deployment of big 
 
 <h2 id="publications-google-scholardblp">Publications <temp style="font-size:15px;">[<a href="https://scholar.google.com.hk/citations?user=6hHbBwwAAAAJ&amp;hl=zh-CN" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/134/1099-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></temp></h2>
 
+<p>* indicates equal contribution</p>
+
 <h3 id="preprints">Preprints</h3>
 
 <ul>
+  <li>
+    <p><a href="https://arxiv.org/abs/2305.17926"><strong>Large Language Models are not Fair Evaluators</strong></a>
+<br />
+Peiyi Wang, Lei Li, Liang Chen, Dawei Zhu, Binghuai Lin, Yunbo Cao, Qi Liu, <strong>Tianyu Liu</strong>, Zhifang Sui
+<br />
+[<a href="https://arxiv.org/abs/2305.17926">PDF</a>] [<a href="https://arxiv.org/abs/2305.17926">bib</a>] [<a href="https://github.com/i-Eval/FairEval">FairEval</a>]</p>
+  </li>
+  <li>
+    <p><a href="https://arxiv.org/abs/2305.14760"><strong>Bi-Drop: Generalizable Fine-tuning for Pre-trained Language Models via Adaptive Subnetwork Optimization</strong></a>
+<br />
+Shoujie Tong*, Heming Xia*, Damai Dai, <strong>Tianyu Liu</strong>, Binghuai Lin, Yunbo Cao, Zhifang Sui
+<br />
+[<a href="https://arxiv.org/abs/2305.14760">PDF</a>] [<a href="https://arxiv.org/abs/2305.14760">bib</a>]</p>
+  </li>
+  <li>
+    <p><a href="https://arxiv.org/abs/2305.07289"><strong>RepCL: Exploring Effective Representation for Continual Text Classification</strong></a>
+<br />
+Yifan Song*, Peiyi Wang*, Dawei Zhu, <strong>Tianyu Liu</strong>, Zhifang Sui, Sujian Li
+<br />
+[<a href="https://arxiv.org/abs/2305.07289">PDF</a>] [<a href="https://arxiv.org/abs/2305.07289">bib</a>]</p>
+  </li>
+  <li>
+    <p><a href="https://arxiv.org/abs/2305.14751"><strong>DialogVCS: Robust Natural Language Understanding in Dialogue System Upgrade</strong></a>
+<br />
+Zefan Cai*, Xin Zheng*, <strong>Tianyu Liu</strong>*, Xu Wang, Haoran Meng, Jiaqi Han, Gang Yuan, Binghuai Lin, Baobao Chang, Yunbo Cao
+<br />
+[<a href="https://arxiv.org/abs/2305.14751">PDF</a>] [<a href="https://arxiv.org/abs/2305.14751">bib</a>]</p>
+  </li>
+  <li>
+    <p><a href="https://arxiv.org/abs/2212.07112"><strong>DialogQAE: N-to-N Question Answer Pair Extraction from Customer Service Chatlog</strong></a>
+<br />
+Xin Zheng*, <strong>Tianyu Liu</strong>*, Haoran Meng*, Xu Wang, Yufan Jiang, Mengliang Rao, Binghuai Lin, Zhifang Sui, Yunbo Cao
+<br />
+[<a href="https://arxiv.org/abs/2212.07112">PDF</a>] [<a href="https://arxiv.org/abs/2212.07112">bib</a>]</p>
+  </li>
   <li>
     <p><a href="https://arxiv.org/abs/2209.00243"><strong>Less is More: Rethinking State-of-the-art Continual Relation Extraction Models with a Frustratingly Easy but Effective Approach</strong></a>
 <br />
@@ -104,6 +143,24 @@ Lianzhe Huang*, Peiyi Wang*, Sujian Li, <strong>Tianyu Liu</strong>, Xiaodong Zh
 
 <ul>
   <li>
+    <p><a href="https://arxiv.org/abs/2305.14652"><strong>Denoising Bottleneck with Mutual Information Maximization for Video Multimodal Fusion</strong></a>
+<br />
+Shaoxiang Wu, Damai Dai, Ziwei Qin, <strong>Tianyu Liu</strong>, Binghuai Lin, Yunbo Cao, Zhifang Sui
+<br />
+Association for Computational Linguistics (ACL), 2023
+<br />
+[<a href="https://arxiv.org/abs/2305.14652">PDF</a>] [<a href="https://arxiv.org/abs/2212.07112">bib</a>] [<a href="https://github.com/WSXRHFG/DBF">code</a>]</p>
+  </li>
+  <li>
+    <p><a href="https://arxiv.org/abs/2305.04636"><strong>Enhancing Continual Relation Extraction via Classifier Decomposition</strong></a>
+<br />
+Heming Xia, Peiyi Wang, <strong>Tianyu Liu</strong>, Binghuai Lin, Yunbo Cao, Zhifang Sui
+<br />
+Findings of Association for Computational Linguistics (ACL), 2023
+<br />
+[<a href="https://arxiv.org/abs/2305.14652">PDF</a>] [<a href="https://arxiv.org/abs/2212.07112">bib</a>] [<a href="https://github.com/hemingkx/CDec">code</a>]</p>
+  </li>
+  <li>
     <p><a href="https://arxiv.org/abs/2204.13413"><strong>HPT: Hierarchy-aware Prompt Tuning for Hierarchical Text Classification</strong></a>
 <br />
 Zihan Wang*, Peiyi Wang*, <strong>Tianyu Liu</strong>, Binghuai Lin, Yunbo Cao, Zhifang Sui, Houfeng Wang
@@ -131,13 +188,13 @@ Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP)
 [<a href="https://arxiv.org/abs/2210.11279">PDF</a>] [<a href="https://arxiv.org/abs/2210.11279">bib</a>] [<a href="https://github.com/MrZhengXin/multi_intent_2022">code</a>]</p>
   </li>
   <li>
-    <p><strong>Learning Invariant Representation Improves Robustness for MRC Models</strong>
+    <p><a href="https://aclanthology.org/2022.findings-emnlp.241/"><strong>Learning Invariant Representation Improves Robustness for MRC Models</strong></a>
 <br />
 Hai Yu, Liang Wen, Haoran Meng, <strong>Tianyu Liu</strong>, Houfeng Wang
 <br />
 Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP), 2022
 <br />
-[<a href="">PDF</a>] [<a href="">bib</a>]</p>
+[<a href="https://aclanthology.org/2022.findings-emnlp.241/">PDF</a>] [<a href="https://aclanthology.org/2022.findings-emnlp.241/">bib</a>]</p>
   </li>
   <li>
     <p><a href="https://www.ijcai.org/proceedings/2022/0610.pdf"><strong>Robust Fine-tuning via Perturbation and Interpolation from In-batch Instances</strong></a>
@@ -448,7 +505,7 @@ International Conference on Computational Linguistics (COLING), 2016
 
 <h2 id="experiences">Experiences</h2>
 <ul>
-  <li>Jul 2021 - Now, Senior Researcher, <a href="https://dingdang.qq.com/open#/">Cloud Xiaowei, Tencent</a>.</li>
+  <li>Jul 2021 - Now, <a href="https://www.linkedin.com/in/tianyu-liu-28013a142/">Senior Researcher</a>, <a href="https://dingdang.qq.com/open#/">Cloud AI, Tencent</a>.</li>
   <li>Jun 2020 - Nov 2020, Research Intern, Microsoft Research AI (Redmond)
 <br />Mentors: <a href="https://dreasysnail.github.io/">Yizhe Zhang</a>, <a href="https://www.microsoft.com/en-us/research/people/maoyi/">Yi Mao</a></li>
   <li>Jul 2019 - Feb 2020, Visitor, <a href="https://www.ttic.edu/">Toyota Technological Institute at Chicago</a> (TTIC)
@@ -480,10 +537,26 @@ International Conference on Computational Linguistics (COLING), 2016
 </ul>
 
 <h2 id="services">Services</h2>
-
 <ul>
-  <li>Conference Program Committee Member: ACL, EMNLP (EMNLP-20 Oustanding Reviewer), NAACL, COLING, INLG, EACL, CCL, AAAI, IJCAI</li>
-  <li>Senior Program Committee Member: IJCAI 2021</li>
+  <li>Conference Program Committee Member:
+    <ul>
+      <li>Association for Computational Linguistics (ACL)</li>
+      <li>Empirical Methods in Natural Language Processing (EMNLP) [<strong><i style="color:#fffff">EMNLP-22 Outstanding Reviewer</i></strong>]</li>
+      <li>North American Association for Computational Linguistics (NAACL)</li>
+      <li>European Chapter of the Association for Computational Linguistics (EACL)</li>
+      <li>International Conference on Computational Linguistics (COLING)</li>
+      <li>International Conference on Natural Language Generation (INLG)</li>
+      <li>China National Conference on Computational Linguistics (CCL)</li>
+      <li>Association for the Advancement of Artificial Intelligence (AAAI)</li>
+      <li>International Joint Conference on Artificial Intelligence (IJCAI) [<strong><i style="color:#fffff">IJCAI 2021 Senior PC Member</i></strong>]</li>
+    </ul>
+  </li>
+  <li>Journal Program Committee Member:
+    <ul>
+      <li>IEEE Transactions on Audio, Speech, and Language Processing (TASLP)</li>
+      <li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
+    </ul>
+  </li>
   <li>Teaching Assistant: Computational Linguistics (Lecturer: Baobao Chang), Compiler Principles (Lecturer: Zhifang Sui)</li>
 </ul>
 
