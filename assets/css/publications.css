@@ -28,6 +28,9 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications { margin-top: 2rem; }
 
+.publications .pub-item { margin-bottom: 1.2em; padding-bottom: 1.2em; border-bottom: 1px solid #e0e0e0; list-style: none; }
+.publications .pub-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+
 .publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
 
 .publications h2 { margin-bottom: 1rem; }
